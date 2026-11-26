@@ -1,11 +1,11 @@
 # Make the Judge Laugh in One Line — @syukuran
 
-[![Make.fun competition](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
-[![Rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/berkahmuse/make-the-judge-laugh-syukuran/rank.svg)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
-[![Reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/berkahmuse/make-the-judge-laugh-syukuran/reward.svg)](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![Make.fun competition](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![Rank](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/berkahmuse/make-the-judge-laugh-syukuran/rank.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[![Reward](https://make.fun/badge/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21/berkahmuse/make-the-judge-laugh-syukuran/reward.svg)](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 
 One funny line, 200 characters or fewer, for the
-[Make the Judge Laugh in One Line](https://make.fun/c/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
+[Make the Judge Laugh in One Line](https://make.fun/bounty/u-email-baru-make-the-judge-laugh-in-one-line-791ccb21)
 competition on [make.fun](https://make.fun).
 
 ## The line
